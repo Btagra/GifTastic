@@ -1,0 +1,22 @@
+body{
+    background: url("../images/leaves-pattern.png");
+}
+
+button,
+div,
+form,
+input {
+margin: 10px;
+}
+
+h1{
+font-size: 55px;
+}
+
+.gif{
+display: inline-block;
+}
+
+.anImg{
+cursor: pointer;
+}
